@@ -1,5 +1,6 @@
 # thesis
-博士論文を執筆します．
+博士論文の執筆
+GitHub Pages: http://shioyoke.com/thesis/
 
 ### 著者
 京都大学エネルギー科学研究科　エネルギー変換科学専攻
